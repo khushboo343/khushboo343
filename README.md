@@ -9,7 +9,6 @@ Hey Devs,<br>I am Khushboo Bhardwaj a final year undergrad and a machine learnin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khushboo343&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khushboo343&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo343a&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khushboo343&theme=radical&no-frame=false&no-bg=true&margin-w=4)
